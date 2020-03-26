@@ -51,9 +51,9 @@ Get sum of transactions
 > }
 
 ## Asymptotic behaviour
-Adding a transaction - O(1) [Updating relevant hashmaps]
-Get a transaction details - O(1)
-Get transaction with type - O(1) [Returns entire list(set)]
-Get sum of transaction - O(Number of children of that transaction)
+- Adding a transaction - O(1) [Updating relevant hashmaps]
+- Get a transaction details - O(1)
+- Get transaction with type - O(1) [Returns entire list(set)]
+- Get sum of transaction - O(Number of children of that transaction)
 
 
